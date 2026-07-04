@@ -1,2 +1,11 @@
-# Ignore comiled Java files
+# Ignore compiled Java files
 *.class
+
+# Code Runner Temporary Files
+TempCodeRunnerFile*
+
+# VS Code Settings
+.vscode/
+
+# Log Files
+*.log
