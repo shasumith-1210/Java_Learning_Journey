@@ -62,9 +62,6 @@ File Handling
       │
       ▼
 Mini Projects
-      │
-      ▼
-Data Structures & Algorithms
 ```
 
 ---
@@ -84,7 +81,7 @@ Data Structures & Algorithms
 | 📚 **[09_Collections](./09_Collections)** | List, Set, Queue, Stack & Map | ⏳ |
 | 💾 **[10_File_Handling](./10_File_Handling)** | Reading & Writing Files | ⏳ |
 | 🚀 **[11_Mini_Projects](./11_Mini_Projects)** | Console-Based Java Projects | ⏳ |
-| 🧠 **[12_Data_Structures_&_Algorithms](./12_Data_Structures_%26_Algorithms)** | Searching, Sorting, Linked Lists, Trees, Graphs & More | ⏳ |
+
 
 ---
 
@@ -103,7 +100,6 @@ Data Structures & Algorithms
 | Collections Framework | ⏳ Upcoming |
 | File Handling | ⏳ Upcoming |
 | Mini Projects | ⏳ Upcoming |
-| Data Structures & Algorithms | ⏳ Upcoming |
 
 ---
 
@@ -145,8 +141,7 @@ java_learning_journey/
 ├── 08_Exception_Handling/
 ├── 09_Collections/
 ├── 10_File_Handling/
-├── 11_Mini_Projects/
-└── 12_Data_Structures_&_Algorithms/
+└── 11_Mini_Projects/
 ```
 
 ---
