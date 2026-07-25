@@ -115,7 +115,7 @@ These programs demonstrate how arrays are used in practical, real-world scenario
 
 # 🚀 Learning Outcome
 
-After completing this module, you will be able to:
+After completing this module, we will be able to:
 
 - Create and initialize arrays
 - Access and update array elements
