@@ -93,8 +93,8 @@ Mini Projects
 | Conditionals | ✅ Completed |
 | Loops | ✅ Completed |
 | Methods | ✅ Completed |
-| Arrays | ⏳ In Progress |
-| Strings | ⏳ Upcoming |
+| Arrays | ✅ Completed |
+| Strings | ⏳ In Progress |
 | Object-Oriented Programming | ⏳ Upcoming |
 | Exception Handling | ⏳ Upcoming |
 | Collections Framework | ⏳ Upcoming |
